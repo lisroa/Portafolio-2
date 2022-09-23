@@ -1,0 +1,60 @@
+html, body, #root {
+    width: 100%;
+    height: 100%;
+    background: #F2F2F2;
+}
+
+.main {
+    padding: 50px 0;
+    width: 100%;
+    height: 100%;
+}
+
+.img-container img {
+    border-radius: 12px;
+    width: 100%;
+    height: auto;
+}
+
+.inner-padding-card {
+    padding: 24px;
+}
+
+.img-logo {
+    justify-content: center;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.img-logo img {
+    border-radius: 50%;
+    width: 80px;
+}
+
+.img-hobbies-container {
+    text-align: center;
+}
+
+.img-hobbies-container img {
+    border-radius: 12px;
+    width: 100%;
+    height: 120px;
+}
+
+.description {
+    font-size: 14px;
+}
+
+
+.img-projects {
+    border-radius: 5px;
+    width: 140px;
+}
+
+
+.buttonsContainer{
+    text-align: center;
+    align-items: center;
+}
+
+
